@@ -56,7 +56,13 @@ export const robots = [
   {
     id: 10,
     name: 'Evangeline Quinn',
-    username: 'Eva',
+    username: 'Evangeline Quinn',
     email: 'evaqp@gmail.com'
+  },
+  {
+    id: 11,
+    name: 'Stefan Peterson',
+    username: 'Dad',
+    email: 'stefanbpeterson@gmail.com'
   }
 ]
