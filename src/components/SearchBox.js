@@ -4,7 +4,7 @@ const SearchBox = ({ searchChange }) => {
   return (
     <Fragment>
       <div className='pa2'>
-        <input className='pa3 ba b--green bg-lightest-blue' type='search' placeholder='Search friends' onChange={searchChange}/>
+        <input className='pa3 ba b--green bg-lightest-blue' type='search' placeholder='Search cards' onChange={searchChange}/>
       </div>
     </Fragment>
   );
